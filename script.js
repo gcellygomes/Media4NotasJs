@@ -28,4 +28,3 @@ if (    nota1 < 0 || nota1 > 10 ||
 
     alert ("Voce ficou com a média: " +media + " , " + "Resultado: " +resultado);
 
-}
